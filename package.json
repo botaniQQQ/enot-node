@@ -1,0 +1,28 @@
+{
+  "name": "enot-node",
+  "version": "1.0.1",
+  "description": "Generate URL for payment in Enot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botaniQQQ/enot-node.git"
+  },
+  "keywords": [
+    "enot",
+    "enot.io",
+    "sci",
+    "url"
+  ],
+  "author": {
+    "name": "botaniQQQ",
+    "email": "botaniq3@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botaniQQQ/enot-node/issues"
+  },
+  "homepage": "https://github.com/botaniQQQ/enot-node#readme"
+}
